@@ -11,11 +11,11 @@ AI • Computer Architecture • EDA • Research
 ## 🧠 Research & Engineering
 - Undergraduate researcher in Structured ASIC optimization (placement, HPWL, congestion)
 - Teaching Assistant: Computer Architecture & Robotics
-- AI Intern: Handwritten historical document processing
+- AI Intern: Handwritten historical document processing at the AUC library
 
 ## 🛠️ Tech Stack
 **Languages:** C++, Python, Verilog, TypeScript  
-**AI/ML:** PyTorch, PPO, OpenCV, scikit-learn  
+**AI/ML:** PyTorch, Pandas, OpenCV, scikit-learn  
 **Systems:** RISC-V, pipelining, timing analysis, EDA flows  
 **Tools:** Git, Linux, Docker
 
@@ -25,7 +25,7 @@ AI • Computer Architecture • EDA • Research
 - 📄 **Handwritten Document AI Pipeline** – Metadata & time-series extraction
 
 ## 📫 Contact
-- LinkedIn: [https://linkedin.com/in/...](https://www.linkedin.com/in/seif-elansary-36329a282/)
+- LinkedIn: [Here](https://www.linkedin.com/in/seif-elansary-36329a282/)
 - Email: seif_elansary@aucegypt.edu
 
 
